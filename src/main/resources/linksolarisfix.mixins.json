@@ -5,8 +5,7 @@
   "compatibilityLevel": "JAVA_17",
   "refmap": "linksolarisfix.refmap.json",
   "mixins": [
-    "EntityScaleCacheMixin",
-    "ScaleTypeBridge"
+    "EntityTickThrottleMixin"
   ],
   "client": [],
   "injectors": {
